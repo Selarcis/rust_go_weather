@@ -36,6 +36,6 @@ func GetFile(url string) {
 }
 
 func main() {
-	// GetFile("https://www.ncei.noaa.gov/data/global-hourly/access/1901/02907099999.csv")
+	GetFile("https://www.ncei.noaa.gov/data/global-hourly/access/1901/02907099999.csv")
 
 }
